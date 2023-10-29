@@ -29,10 +29,10 @@ function App() {
     <div className='projects'>
       <h3>Projetos</h3>
       <div className='row'>
-        <div className='col-md-4'><img src="/public/images/projeto1.png" alt="" /> <h5>Conselhos diarios</h5><p>Projeto Feito com javascript + Bootstrap</p></div>
-        <div className='col-md-4'><img src="/public/images/projeto2.png" alt="" /> <h5>Pagina de vevndas</h5> <p>Pagina de vendas basica</p> </div>
-        <div className='col-md-4'><img src="/public/images/projeto 3.png" alt="" /> <h5>Site de Adivogado</h5><p>Site Institucional</p></div>
-        <div className='col-md-4'><img src="/public/images/projeto 4.png" alt="" /><h5>Conversão de moedas</h5><p>Projeto Feito com Javascript + Bootstrap</p></div>
+        <div className='col-md-4'><img src="/images/projeto1.png" alt="" /> <h5>Conselhos diarios</h5><p>Projeto Feito com javascript + Bootstrap</p></div>
+        <div className='col-md-4'><img src="/images/projeto2.png" alt="" /> <h5>Pagina de vevndas</h5> <p>Pagina de vendas basica</p> </div>
+        <div className='col-md-4'><img src="/images/projeto 3.png" alt="" /> <h5>Site de Adivogado</h5><p>Site Institucional</p></div>
+        <div className='col-md-4'><img src="/images/projeto 4.png" alt="" /><h5>Conversão de moedas</h5><p>Projeto Feito com Javascript + Bootstrap</p></div>
 
         
 
