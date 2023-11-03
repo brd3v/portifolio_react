@@ -35,7 +35,7 @@ function App() {
         <div className='col-md-4'><img src="https://raw.githubusercontent.com/brd3v/portifolio_react/main/public/images/anime%20news.png" alt="" /> <h5>Portal de notícias</h5> <p>Aplicação utilizando Ajax, React, bootstrap</p> 
         <a className='link' target='blank' href="https://github.com/brd3v/MangaNews">Código</a> 
         <a className='link' target='blank' href="https://manga-news.vercel.app/">Deploy</a></div>
-        <div className='col-md-4'><img src="https://github.com/brd3v/portifolio_react/blob/main/public/images/papgina%20de%20venda.png?raw=true" alt="" /> <h5>Pafgina de vendas</h5><p>Pagina de vendas desenvolvida para infoprodutores</p>
+        <div className='col-md-4'><img src="https://github.com/brd3v/portifolio_react/blob/main/public/images/papgina%20de%20venda.png?raw=true" alt="" /> <h5>Pagina de vendas</h5><p>Pagina de vendas desenvolvida para infoprodutores</p>
         <a className='link' target='blank' href="https://github.com/brd3v/site_vendas">Código</a>
         <a className='link' target='blank' href="https://site-vendas-seven.vercel.app/">Deploy</a></div>
         <div className='col-md-4'><img src="https://github.com/brd3v/portifolio_react/blob/main/public/images/site%20advogado.png?raw=true" alt="" /><h5>Landingpage + Fromulario</h5><p>Projeto Feito com Javascript + Bootstrap</p>
