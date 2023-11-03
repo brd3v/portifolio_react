@@ -84,6 +84,9 @@
 
 @media(max-width: 600px){
   .title{
+    margin: 0;
+    padding: 0;
+    width: auto;
     display: flex;
     flex-direction: column;
     height: 40vh;

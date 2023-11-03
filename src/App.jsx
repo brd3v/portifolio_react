@@ -9,7 +9,7 @@ import  'react-bootstrap-icons';
 function App() {
 
   return (
-    <>
+    <div className='app'>
    <div className='title'>
    <div>  
    <div className='nome'>
@@ -55,7 +55,7 @@ function App() {
      </div>
     </footer>
 
-    </>
+    </div>
   )
 }
 
